@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet-cli": "^0.1.0",
+    "quote-cli": "^1.1.1",
+    "superb-cli": "^1.0.0"
+  }
+}

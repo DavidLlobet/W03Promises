@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "orta.vscode-jest",
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml"
+  ]
+}
